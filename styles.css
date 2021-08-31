@@ -1,16 +1,80 @@
 
 body{
-	margin-top: 50px;
+	margin-top: 0px;
+
 }
 
 
-.first-cont{
-
-	margin: 20px auto;
+.b-cont{
+	padding: 2% 15%;
 	text-align: center;
 }
 
-.pubg-img{
-	width: 350px;
-	margin: 8px auto;
+.poster-section{
+	padding: 0% 15% 2% 15%;
 }
+
+.taur-list{
+	margin: 20px 30px;
+	text-align: center;
+}
+
+.BG{ 
+	background-color: #628395;
+ }
+
+ .navbar-brand{
+ 	font-size: 32px;
+
+ }
+
+ .container-fluid{
+ 	padding: 5% 15% 2% 15%;
+ }
+
+
+.poster-image{
+	max-width: 1080px;
+	width: 100%;
+	height: auto;
+	margin: 20px auto;
+}
+
+.t-img{
+	width: 350px;
+	height: auto;
+	margin: 25px auto;
+}
+
+
+#cta {
+	background-color: #628395;
+	color: #fff;
+	text-align: center;
+	padding: 4% 3%;
+
+}
+
+#PUB-G{
+	margin: 50px auto;
+	padding: 10px auto;
+}
+
+.testimonial-image{
+	width: 10%;
+	border-radius: 100%;
+	margin:20px;
+}
+
+
+#footer {
+	text-align: center;
+	padding: 3% 0;
+}
+
+/*.frame-set{
+	margin: 10px 15px;
+	
+	width: 100%;
+}
+*/
